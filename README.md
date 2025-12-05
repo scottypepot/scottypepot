@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'M A BSIT STUDENT FROM CIT-U, <br>I'M learning JavaScript, ReactJS, Java , C <br>I'm looking to collaborate with an open source project<br>fun fact I keep playing dota but i want to code too hahah
+IT student with practical experience in building web interfaces and applications using
+JavaScript, ReactJS, and Java. Strong collaborative and time-management skills gained from
+project work and hackathons. Eager to apply technical knowledge and learn in a real-world
 
 
 ## 🌐 Socials:
